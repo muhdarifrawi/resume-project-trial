@@ -10,3 +10,24 @@
 .blue{
     background-color:blue;
 }
+
+
+#hero-image{
+    background-image:url(image/desk-image.jpg);
+    width:1280px;
+    height:853px;
+    background-position: center;
+    background-size:cover;
+}
+
+#second-image{
+    background-image:url(image/grass-image.jpg);
+    width:1280px;
+    height:853px;
+    background-position: center;
+    background-size:cover;
+}
+
+.seethru{
+    background-color: rgba(76, 175, 80, 0.3)
+}
